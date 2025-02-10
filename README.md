@@ -9,6 +9,7 @@
 
 ### PDF : [LINK](https://github.com/dsjoh/ThinkBigData_CleVo/blob/dev/%5BSW%EC%82%B0%ED%95%99%EC%97%B0%EA%B3%84%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%5D%EC%94%BD%ED%81%AC%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0%ED%8C%80_%EC%B5%9C%EC%A2%85%EB%B3%B4%EA%B3%A0%EC%84%9C-%EB%B3%B5%EC%82%AC.pdf)
 </br>
+
 ## License
 
 해당 프로젝트는 OpenAI와 ETRI에서 제공하는 API의 결과물을 포함하고 있습니다. </br>
