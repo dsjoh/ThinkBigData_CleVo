@@ -6,6 +6,9 @@
 (CleVo : AI를 활용한 영어 발음 학습 서비스) </br> </br>
 광운대학교 정보융합학부 </br>
 오승준 김민서 신원석 설수빈 이원빈
+
+PDF : </br>
+(https://github.com/dsjoh/ThinkBigData_CleVo/blob/dev/%5BSW%EC%82%B0%ED%95%99%EC%97%B0%EA%B3%84%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%5D%EC%94%BD%ED%81%AC%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0%ED%8C%80_%EC%B5%9C%EC%A2%85%EB%B3%B4%EA%B3%A0%EC%84%9C-%EB%B3%B5%EC%82%AC.pdf)
  
 ## License
 
